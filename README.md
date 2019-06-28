@@ -5,7 +5,7 @@ Program Calculator
 ```
 apt update
 pkg install git
+pkg install python2
 cd Kalkulathor
-chmod +x ngitung.sh
 sh ngitung.sh
 ```
