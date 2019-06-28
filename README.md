@@ -9,3 +9,8 @@ pkg install python2
 cd Kalkulathor
 sh ngitung.sh
 ```
+# Login
+```
+username : Maulanarym
+password : subscribe
+```
